@@ -1,0 +1,22 @@
+# ===== Build artifacts =====
+build/
+*.o
+*.obj
+*.exe
+kvstore
+
+# ===== Logs / runtime data =====
+data/db.txt
+
+# ===== Editor / OS noise =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== CMake / other tools (future-proof) =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
