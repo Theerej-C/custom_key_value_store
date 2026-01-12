@@ -5,6 +5,8 @@ build/
 *.exe
 kvstore
 
+bin/
+
 # ===== Logs / runtime data =====
 data/db.txt
 
